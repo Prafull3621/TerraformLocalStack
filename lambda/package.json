@@ -1,0 +1,8 @@
+{
+  "name": "localstack-lambda",
+  "version": "1.0.0",
+  "main": "function.js",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0"
+  }
+}
