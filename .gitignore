@@ -1,0 +1,22 @@
+.vscode/
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+lambda.zip
+
+# Node
+node_modules/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+coverage/
+.cache/
